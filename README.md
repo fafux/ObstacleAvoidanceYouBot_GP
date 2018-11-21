@@ -7,4 +7,4 @@ Note that this repository comprends only the presentation of the work (so, no co
 Video visible [here](https://streamable.com/dyxd8)
 
 ##### Group Project done in collaboration with
-[fafux](https://github.com/torydebra)
+[torydebra](https://github.com/torydebra)
